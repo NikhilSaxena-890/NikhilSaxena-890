@@ -1,4 +1,4 @@
-![Aura Night Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ffff00,100:16213e&height=230&section=header&text=Nikhil%20Saxena&fontColor=e94560&fontSize=40&fontAlignY=40)
+![Aura Night Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0101fb,100:16213e&height=230&section=header&text=Nikhil%20Saxena&fontColor=e94560&fontSize=40&fontAlignY=40)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=E94560&center=true&vCenter=true&width=435&lines=Full-stack+Developer;DSA+Enthusiast;Always+Building%2C+Always+Learning;Lover+of+Clean+UI+%26+Real-world+Apps" alt="Typing SVG" />
