@@ -39,14 +39,4 @@ Full-stack Developer | DSA Enthusiast | Creative Technophile
 </div>
 
 
----
 
-## 💡 Notes
-- Replace:
-  - `your_email@example.com` → your real email
-  - `linkedin.com/in/your-profile` → your LinkedIn link
-  - `your-portfolio.com` → your personal site or portfolio (if any)
-- All visuals (badges, banners, graphs) update dynamically.
-- Optional: add pinned repos to your profile for best effect.
-
----
